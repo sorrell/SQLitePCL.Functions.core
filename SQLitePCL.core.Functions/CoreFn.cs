@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 using System.Xml;
 using System.Globalization;
 
-namespace SQLitePCL.core.Functions
+namespace SQLitePCL.Functions.core
 {
     /// <summary>
     /// This class is meant to be used by the SQLitePCL Raw and Pretty function libraries, and provides

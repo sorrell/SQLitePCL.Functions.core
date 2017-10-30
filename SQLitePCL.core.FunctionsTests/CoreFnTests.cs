@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SQLitePCL.core.Functions;
+using SQLitePCL.Functions.core;
 
 
 namespace SQLitePCL.core.Functions.Tests
